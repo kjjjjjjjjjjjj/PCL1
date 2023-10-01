@@ -115,5 +115,3 @@ jobs:
         path: ${{ env.Wap_Project_Directory }}\AppPackages 
 
   ignore: Do not output any warnings or errors, the action does not fail
-
-  
